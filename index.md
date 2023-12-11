@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/wwwdt/wwwdt.github.io/blob/main/images/1702283882912.jpg.JPG?raw=true" class="floatpic" width="360" height="480">
+<img src="https://github.com/wwwdt/wwwdt.github.io/blob/main/images/IMG_20231122_183340.jpg?raw=true" class="floatpic" width="360" height="480">
 
 Here is **Dengting Wang(Bella, 王登婷)**.
 
